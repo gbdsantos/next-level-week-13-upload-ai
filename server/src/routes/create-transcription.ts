@@ -15,7 +15,7 @@ export async function createTranscriptionRoute(app: FastifyInstance) {
     const { videoId } = paramsSchema.parse(request.params)
 
     const bodySchema = z.object({
-      prompt: z.string(),
+      prompt: z.string().uuid(),
     })
 
     const { prompt } = bodySchema.parse(request.body)

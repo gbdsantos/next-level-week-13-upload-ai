@@ -22,7 +22,11 @@ const statusMessages = {
   error: 'Erro...'
 }
 
-export function VideoInputForm() {
+interface VideoInputFormProps {
+  onVideoUploaded: (id: string) => void
+}
+
+export function VideoInputForm(props: VideoInputFormProps) {
   const [videoFile, setVideoFile] = useState<File | null>(null)
   const promptInputRef = useRef<HTMLTextAreaElement>(null)
   const [status, setStatus] = useState<Status>('waiting')
@@ -110,6 +114,8 @@ export function VideoInputForm() {
       })
 
       setStatus('success')
+
+      props.onVideoUploaded(videoId)
     } catch (error) {
       setStatus('error')
     }

@@ -23,7 +23,7 @@
 
 <div align="center">
   <h4 align="center">leia nos idiomas</h4>
-  <a href="https://github.com/gbdsantos/next-level-week-13-upload-ai/blob/master/README.md" hreflang="en"> 🇺🇸 inglês
+  <a href="https://github.com/gbdsantos/next-level-week-13-upload-ai/README.md" hreflang="en"> 🇺🇸 inglês
   </a>
 </div>
 

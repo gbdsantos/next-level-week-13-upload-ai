@@ -4,22 +4,22 @@ import coreURL from '../ffmpeg/ffmpeg/ffmepeg-core.js?url'
 import wasmURL from '../ffmpeg/ffmpeg/ffmepeg-core.wasm?url'
 import workerURL from '../ffmpeg/ffmpeg/ffmepeg-worker.js?url'
 
-let ffmepeg: FFmpeg | null
+let ffmpeg: FFmpeg | null
 
 export async function getFFmpeg() {
-  if (ffmepeg) {
-    return ffmepeg
+  if (ffmpeg) {
+    return ffmpeg
   }
 
-  ffmepeg = new FFmpeg()
+  ffmpeg = new FFmpeg()
 
-  if(!ffmepeg.loaded) {
-    await ffmepeg.load({
+  if(!ffmpeg.loaded) {
+    await ffmpeg.load({
       coreURL,
       wasmURL,
       workerURL
     })
   }
 
-  return ffmepeg
+  return ffmpeg
 }

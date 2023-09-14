@@ -9,7 +9,6 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gbdsantos/next-level-week-13-upload-ai.svg">
   </a>
 
-
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gbdsantos/next-level-week-13-upload-ai.svg">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/gbdsantos/next-level-week-13-upload-ai.svg">
@@ -21,7 +20,7 @@
 
 <div align="center">
   <h4 align="center">read on languages</h4>
-  <a href="https://github.com/gbdsantos/react-native-atomic-design" hreflang="pt-br">🇧🇷 portuguese
+  <a href="https://github.com/gbdsantos/next-level-week-13-upload-ai/blob/master/README.pt-br.md" hreflang="pt-br">🇧🇷 portuguese
   </a>
 </div>
 

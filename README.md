@@ -26,7 +26,7 @@
 
 ## 💡 About Project
 
-Project made during Rocketseat's Next Level Week event on September 11, 12 and 13, 2023.
+Transcription video application using genAI/GAI API  made during Rocketseat's Next Level Week event on September 11, 12 and 13, 2023.
 
 <br>
 
@@ -49,6 +49,8 @@ npm run dev
 ## ⚖️ License
 
 This project is under the MIT license. See the [LICENSE](https://github.com/gbdsantos/next-level-week-13-upload-ai/blob/master/LICENSE) for more information.
+
+<br>
 
 ---
 Made by ♥ por :man_astronaut: Guilherme Bezerra :wave: [Get in touch!](https://www.linkedin.com/in/gbdsantos/)

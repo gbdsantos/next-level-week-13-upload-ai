@@ -27,9 +27,9 @@
   </a>
 </div>
 
-## 💡 About Project
+## 💡 Sobre
 
-Projeto realizado durante o evento Next Level Week da Rocketseat nos dias 11, 12 e 13 de setembro de 2023.
+Aplicação que faz o transcrição de vídeos usando uma API de inteligência artificial generativa (*genIA*/GAI) feita durante o evento Next Level Week da Rocketseat nos dias 11, 12 e 13 de setembro de 2023.
 
 <br>
 
@@ -53,6 +53,8 @@ npm run dev
 ## ⚖️ Licença
 
 Este projeto está sobre a licença MIT. Veja em [LICENSE](https://github.com/gbdsantos/next-level-week-13-upload-ai/blob/master/LICENSE) para maiores informações.
+
+<br>
 
 ---
 Feito com ♥ por 👨‍🚀 **Guilherme Bezerra** 👋 [Entrar em contato!](https://www.linkedin.com/in/gbdsantos/)

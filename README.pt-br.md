@@ -27,6 +27,12 @@
   </a>
 </div>
 
+## 💡 About Project
+
+Projeto realizado durante o evento Next Level Week da Rocketseat nos dias 11, 12 e 13 de setembro de 2023.
+
+<br>
+
 ## ⚙️ Executar Projeto
 
 ```Bash
@@ -41,6 +47,8 @@ npm run dev
 cd web
 npm run dev
 ```
+
+<br>
 
 ## ⚖️ Licença
 

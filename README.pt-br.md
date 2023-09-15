@@ -58,4 +58,4 @@ Este projeto está sobre a licença MIT. Veja em [LICENSE](https://github.com/gb
 <br>
 
 ---
-Feito com ♥ por 👨‍🚀 Guilherme Bezerra 👋 [Entrar em contato!](https://www.linkedin.com/in/gbdsantos/)
+Feito com ❤️ por 👨‍🚀 Guilherme Bezerra 👋 [Entrar em contato!](https://www.linkedin.com/in/gbdsantos/)

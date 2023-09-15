@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<div style="margin: 0 auto; width: 90%;">
+<div align="center" style="width: 90%;">
   <img alt="upload.ia application demonstration" src="demo-upload-ai.gif" />
 </div>
 

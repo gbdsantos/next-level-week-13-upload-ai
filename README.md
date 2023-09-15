@@ -59,4 +59,4 @@ This project is under the MIT license. See the [LICENSE](https://github.com/gbds
 <br>
 
 ---
-Made by ♥ por :man_astronaut: Guilherme Bezerra :wave: [Get in touch!](https://www.linkedin.com/in/gbdsantos/)
+Made with ❤️ by 🧑‍🚀 Guilherme Bezerra 👋 [Get in touch!](https://www.linkedin.com/in/gbdsantos/)

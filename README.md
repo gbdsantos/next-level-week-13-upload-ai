@@ -1,6 +1,6 @@
  <div align="center">
     <h1 align="center">
-      upload.ia
+      upload.ai
    </h1>
 </div>
 
@@ -18,7 +18,9 @@
   </a>
 </p>
 
-![upload.ia demo](demo-upload-ia.gif "upload.ia application demonstration")
+<div style="margin: 0 auto; width: 90%;">
+  <img alt="upload.ia application demonstration" src="demo-upload-ai.gif" />
+</div>
 
 <div align="center">
   <h4 align="center">read on languages</h4>

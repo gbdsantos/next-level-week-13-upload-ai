@@ -1,6 +1,6 @@
  <div align="center">
     <h1 align="center">
-      upload.ia
+      upload.ai
    </h1>
 </div>
 
@@ -9,19 +9,18 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gbdsantos/next-level-week-13-upload-ai.svg">
   </a>
 
-
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gbdsantos/next-level-week-13-upload-ai.svg">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/gbdsantos/next-level-week-13-upload-ai.svg">
-
-
 
   <a href="https://github.com/gbdsantos/next-level-week-13-upload-ai/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/gbdsantos/next-level-week-13-upload-ai.svg">
   </a>
 </p>
 
-![upload.ia demo](demo-upload-ia.gif "demonstração da aplicação upload.ia")
+<div style="margin: 0 auto; width: 90%;">
+  <img alt="demonstração da aplicação upload.ai" src="demo-upload-ai.gif" />
+</div>
 
 <div align="center">
   <h4 align="center">leia nos idiomas</h4>

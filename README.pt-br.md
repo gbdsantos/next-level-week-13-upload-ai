@@ -21,6 +21,8 @@
   </a>
 </p>
 
+![upload.ia demo](demo-upload-ia.gif "demonstração da aplicação upload.ia")
+
 <div align="center">
   <h4 align="center">leia nos idiomas</h4>
   <a href="https://github.com/gbdsantos/next-level-week-13-upload-ai" hreflang="en"> 🇺🇸 inglês
@@ -29,7 +31,7 @@
 
 ## 💡 Sobre
 
-Aplicação que faz o transcrição de vídeos usando uma API de inteligência artificial generativa (*genIA*/GAI) feita durante o evento Next Level Week da Rocketseat nos dias 11, 12 e 13 de setembro de 2023.
+Aplicação que faz a transcrição de vídeos usando uma API de inteligência artificial generativa (*genIA*/GAI) feita durante o evento Next Level Week da Rocketseat nos dias 11, 12 e 13 de setembro de 2023.
 
 <br>
 

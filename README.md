@@ -18,11 +18,15 @@
   </a>
 </p>
 
+![upload.ia demo](demo-upload-ia.gif "upload.ia application demonstration")
+
 <div align="center">
   <h4 align="center">read on languages</h4>
   <a href="https://github.com/gbdsantos/next-level-week-13-upload-ai/blob/master/README.pt-br.md" hreflang="pt-br">🇧🇷 portuguese
   </a>
 </div>
+
+<br>
 
 ## 💡 About Project
 
